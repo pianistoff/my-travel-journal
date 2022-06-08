@@ -1,0 +1,30 @@
+* {
+    box-sizing: border-box;
+}
+
+body {
+    margin: 0;
+    font-family: "Inter";
+}
+
+.header {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    background-color: #f55a5a;
+    gap: 7px;
+    height: 55px;
+}
+
+.logo {
+    width: 24px;
+    height: 24px;
+}
+
+.main-title {
+    color: white;
+    font-weight: 500;
+    font-size: 14.4608px;
+    line-height: 18px;
+    letter-spacing: -0.075em;
+}
