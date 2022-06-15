@@ -1,0 +1,37 @@
+{
+  "files": {
+    "main.css": "/my-travel-journal/static/css/main.8d6a5524.css",
+    "main.js": "/my-travel-journal/static/js/main.de4da010.js",
+    "static/media/inter-all-700-normal.woff": "/my-travel-journal/static/media/inter-all-700-normal.967111a4e94949e07c17.woff",
+    "static/media/inter-all-500-normal.woff": "/my-travel-journal/static/media/inter-all-500-normal.d244e0f9b2d646739367.woff",
+    "static/media/inter-all-400-normal.woff": "/my-travel-journal/static/media/inter-all-400-normal.e71ac35377dd87cb4d4b.woff",
+    "static/media/inter-latin-ext-700-normal.woff2": "/my-travel-journal/static/media/inter-latin-ext-700-normal.d0e44b918a58657fb53d.woff2",
+    "static/media/inter-latin-ext-500-normal.woff2": "/my-travel-journal/static/media/inter-latin-ext-500-normal.1760184635899edad348.woff2",
+    "static/media/inter-latin-ext-400-normal.woff2": "/my-travel-journal/static/media/inter-latin-ext-400-normal.325ea6d33179f07ec7db.woff2",
+    "static/media/inter-latin-700-normal.woff2": "/my-travel-journal/static/media/inter-latin-700-normal.65a568f2a9065247687a.woff2",
+    "static/media/inter-latin-500-normal.woff2": "/my-travel-journal/static/media/inter-latin-500-normal.aa2121933b2f29817134.woff2",
+    "static/media/inter-latin-400-normal.woff2": "/my-travel-journal/static/media/inter-latin-400-normal.c96fe5ff771f9e7b53ab.woff2",
+    "static/media/inter-cyrillic-ext-700-normal.woff2": "/my-travel-journal/static/media/inter-cyrillic-ext-700-normal.97ed94dcb48b3ce88a28.woff2",
+    "static/media/inter-cyrillic-ext-500-normal.woff2": "/my-travel-journal/static/media/inter-cyrillic-ext-500-normal.8c4f8cfe5cea08748ca8.woff2",
+    "static/media/inter-cyrillic-ext-400-normal.woff2": "/my-travel-journal/static/media/inter-cyrillic-ext-400-normal.4543e27a05aa2ba75c44.woff2",
+    "static/media/inter-greek-700-normal.woff2": "/my-travel-journal/static/media/inter-greek-700-normal.34f9440ccaad8e5f4053.woff2",
+    "static/media/inter-greek-500-normal.woff2": "/my-travel-journal/static/media/inter-greek-500-normal.8a27d5b504cf3be364d3.woff2",
+    "static/media/inter-greek-400-normal.woff2": "/my-travel-journal/static/media/inter-greek-400-normal.94fd6d5b2b3cd70f2516.woff2",
+    "static/media/inter-cyrillic-700-normal.woff2": "/my-travel-journal/static/media/inter-cyrillic-700-normal.59c396615f9fc501a0e9.woff2",
+    "static/media/inter-cyrillic-500-normal.woff2": "/my-travel-journal/static/media/inter-cyrillic-500-normal.491a7ad62a4ff7547fcb.woff2",
+    "static/media/inter-cyrillic-400-normal.woff2": "/my-travel-journal/static/media/inter-cyrillic-400-normal.514f4123b1effd5ed0d8.woff2",
+    "static/media/inter-greek-ext-500-normal.woff2": "/my-travel-journal/static/media/inter-greek-ext-500-normal.ba90b7eaf10ae523b85e.woff2",
+    "static/media/inter-greek-ext-700-normal.woff2": "/my-travel-journal/static/media/inter-greek-ext-700-normal.027ef51d0f69f86939e4.woff2",
+    "static/media/inter-greek-ext-400-normal.woff2": "/my-travel-journal/static/media/inter-greek-ext-400-normal.18e3b17c2aceabafdd3c.woff2",
+    "static/media/inter-vietnamese-700-normal.woff2": "/my-travel-journal/static/media/inter-vietnamese-700-normal.f968fd6dd3cd99b5a556.woff2",
+    "static/media/inter-vietnamese-500-normal.woff2": "/my-travel-journal/static/media/inter-vietnamese-500-normal.12cf48647f8532e5437a.woff2",
+    "static/media/inter-vietnamese-400-normal.woff2": "/my-travel-journal/static/media/inter-vietnamese-400-normal.a1bc9a8f426924c5dea8.woff2",
+    "index.html": "/my-travel-journal/index.html",
+    "main.8d6a5524.css.map": "/my-travel-journal/static/css/main.8d6a5524.css.map",
+    "main.de4da010.js.map": "/my-travel-journal/static/js/main.de4da010.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.8d6a5524.css",
+    "static/js/main.de4da010.js"
+  ]
+}
