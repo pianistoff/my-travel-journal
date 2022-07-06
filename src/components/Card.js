@@ -1,9 +1,10 @@
 import locationImage from "../img/location.png";
 
-export default function Card({title, location, googleMapsUrl, startDate, endDate, description, imageUrl}) {
+export default function Card({title, location, googleMapsUrl, startDate, endDate, description, image}) {
+    const img = Object.values(image)[0];
     return (
         <div className="card">
-            <img src={imageUrl} alt="An image of the destination place"  className="main-image" />
+            <img src={img} alt="An image of the destination place"  className="main-image" />
             <div className="right-side">
                 <div className="first-line">
                     <img src={locationImage} alt="" className="location-image" />
